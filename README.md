@@ -1,3 +1,3 @@
 tict.py is single player game of tictactoe vs computer
-tictac.py is a two player game for tictactoe
+while tictac.py is a two player game for tictactoe
  
