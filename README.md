@@ -1,1 +1,3 @@
-Python command line games
+tict.py is single player game of tictactoe vs computer
+tictac.py is a two player game for tictactoe
+ 
